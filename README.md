@@ -5,5 +5,5 @@
 </p>
 
 <p align="center">
-Repositório para projetos executados na <a href="https://www.dio.me/">Dio</a> durante as aulas de Git e GitHub do Bootcamp <a href="https://web.dio.me/track/santander-code-girls">Santander Code Girls.</a></p>
+Repositório para projetos executados na <a href="https://www.dio.me/">Dio</a> durante as aulas do Bootcamp <a href="https://web.dio.me/track/santander-code-girls">Santander Code Girls.</a></p>
 
