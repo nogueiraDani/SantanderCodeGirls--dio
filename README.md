@@ -1,7 +1,7 @@
 # Santander Code Girls - dio
 
 <p align="center">
-<img src="./src/logo-bootcamp.png" alt="logo do bootcamp Santander Code Girls" height="150px" width="150px" >
+<img src="./image/logo-bootcamp.png" alt="logo do bootcamp Santander Code Girls" height="150px" width="150px" >
 </p>
 
 <p align="center">
