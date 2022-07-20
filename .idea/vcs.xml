@@ -3,10 +3,10 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Java/aulaListas" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Java/aulaListas/src/Set" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Java/aulaListas/src/Set/ExerciciosSet" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Java/aulaLoopsArrays" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Java/aulaMetodos" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Java/aulaRetornos" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Java/aulaSobrecarga" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Java/aulaVariaveis" vcs="Git" />
   </component>
 </project>
